@@ -1,4 +1,4 @@
-# Pandas Analytics Agents
+# COVID-19 Analytics Agents
 
 This repo contains two versions of implemtation of an agentic workflow that is able to answer a user's analytical questions against a COVID-19 dataset (see ["Dataset"](#dataset) section below), one in LangGraph and one in Micorosoft Agent Framework (MAF).
 
